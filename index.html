@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Liturgia de Hoy</title>
+
+<style>
+
+body{
+font-family: Arial;
+max-width: 800px;
+margin:auto;
+padding:20px;
+background:#f5f5f5;
+line-height:1.6;
+}
+
+h1{
+text-align:center;
+}
+
+.seccion{
+background:white;
+padding:20px;
+margin-top:20px;
+border-radius:10px;
+}
+
+.cita{
+font-weight:bold;
+color:#444;
+margin-bottom:10px;
+}
+
+.respuesta{
+font-style:italic;
+color:#7a0000;
+margin-top:10px;
+margin-bottom:10px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1>✝️ Liturgia del Día</h1>
+
+<div id="contenido"></div>
+
+<script>
+
+function formatearSalmo(texto){
+return texto.replace(/\n/g,"<br><br>");
+}
+
+fetch('liturgia.json')
+.then(response => response.json())
+.then(data => {
+
+let html = `
+
+<div class="seccion">
+<h2>${data.fecha}</h2>
+<p><b>Tiempo Litúrgico:</b> ${data.tiempo_liturgico}</p>
+<p><b>Color:</b> ${data.color}</p>
+</div>
+
+
+<div class="seccion">
+<h3>Antífona de Entrada</h3>
+<p>${data.antifona_entrada}</p>
+</div>
+
+
+<div class="seccion">
+<h3>Oración Colecta</h3>
+<p>${data.oracion_colecta}</p>
+</div>
+
+
+<div class="seccion">
+<h3>Primera Lectura</h3>
+<p class="cita">${data.primera_lectura.cita}</p>
+<p>${formatearSalmo(data.primera_lectura.texto)}</p>
+</div>
+
+
+<div class="seccion">
+<h3>Salmo Responsorial</h3>
+<p class="cita">${data.salmo.cita}</p>
+
+<p class="respuesta">
+R. ${data.salmo.respuesta}
+</p>
+
+<p>${formatearSalmo(data.salmo.texto)}</p>
+
+</div>
+`;
+
+if(data.segunda_lectura && data.segunda_lectura.cita !== ""){
+html += `
+
+<div class="seccion">
+<h3>Segunda Lectura</h3>
+<p class="cita">${data.segunda_lectura.cita}</p>
+<p>${formatearSalmo(data.segunda_lectura.texto)}</p>
+</div>
+
+`;
+}
+
+html += `
+
+<div class="seccion">
+<h3>Aclamación antes del Evangelio</h3>
+
+<p class="respuesta">
+R. ${data.aclamacion.respuesta}
+</p>
+
+<p>${formatearSalmo(data.aclamacion.texto)}</p>
+
+</div>
+
+
+<div class="seccion">
+<h3>Evangelio</h3>
+<p class="cita">${data.evangelio.cita}</p>
+<p>${formatearSalmo(data.evangelio.texto)}</p>
+</div>
+
+
+<div class="seccion">
+<h3>Reflexión</h3>
+<p>${formatearSalmo(data.reflexion)}</p>
+</div>
+
+
+<div class="seccion">
+<h3>Oración sobre las Ofrendas</h3>
+<p>${formatearSalmo(data.oracion_ofrendas)}</p>
+</div>
+
+
+<div class="seccion">
+<h3>Antífona de Comunión</h3>
+<p>${formatearSalmo(data.antifona_comunion)}</p>
+</div>
+
+
+<div class="seccion">
+<h3>Oración después de la Comunión</h3>
+<p>${formatearSalmo(data.oracion_comunion)}</p>
+</div>
+
+`;
+
+document.getElementById("contenido").innerHTML = html;
+
+});
+
+</script>
+
+</body>
+</html>
