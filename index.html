@@ -61,6 +61,20 @@ html += `<p><b>${data.tiempo_liturgico}</b></p>`;
 
 html += `
 <div class="seccion">
+<h3>Antífona de Entrada</h3>
+<p>${data.antifona_entrada}</p>
+</div>
+`;
+
+html += `
+<div class="seccion">
+<h3>Oración Colecta</h3>
+<p>${data.oracion_colecta}</p>
+</div>
+`;
+
+html += `
+<div class="seccion">
 <h3>Primera Lectura</h3>
 <div class="cita">${data.primera_lectura.cita}</div>
 <p>${data.primera_lectura.texto}</p>
@@ -107,20 +121,6 @@ html += `
 <div class="seccion">
 <h3>Reflexión</h3>
 <p>${data.reflexion.texto}</p>
-</div>
-`;
-
-html += `
-<div class="seccion">
-<h3>Antífona de Entrada</h3>
-<p>${data.antifona_entrada}</p>
-</div>
-`;
-
-html += `
-<div class="seccion">
-<h3>Oración Colecta</h3>
-<p>${data.oracion_colecta}</p>
 </div>
 `;
 
