@@ -11,7 +11,10 @@
   "salmo": {
     "cita": "Salmo 80",
     "respuesta": "R. Yo soy tu Dios, escúchame.",
-    "texto": "Oyó Israel palabras nunca oídas: “He quitado la carga de tus hombros y el pesado canasto de tus manos. Clamaste en la aflicción y te libré. R. Te respondí, oculto entre los truenos, y te probé en Meribá, junto a la fuente. Escucha, pueblo mío, mi advertencia. ¡Israel, si quisieras escucharme! R. No tendrás otro Dios, fuera de mí, ni adorarás a dioses extranjeros, porque yo el Señor, soy el Dios tuyo, que te sacó de Egipto, tu destierro. R. ¡Ojalá que mi pueblo me escuchara y cumpliera Israel mis mandamientos! Comería de lo mejor de mi trigo y yo lo saciaría con miel silvestre”. R."
+    "texto1": "Oyó Israel palabras nunca oídas: “He quitado la carga de tus hombros y el pesado canasto de tus manos. Clamaste en la aflicción y te libré. R."
+    "texto2": "Te respondí, oculto entre los truenos, y te probé en Meribá, junto a la fuente. Escucha, pueblo mío, mi advertencia. ¡Israel, si quisieras escucharme! R."
+    "texto3": "No tendrás otro Dios, fuera de mí, ni adorarás a dioses extranjeros, porque yo el Señor, soy el Dios tuyo, que te sacó de Egipto, tu destierro. R."
+    "texto4": "¡Ojalá que mi pueblo me escuchara y cumpliera Israel mis mandamientos! Comería de lo mejor de mi trigo y yo lo saciaría con miel silvestre”. R."
   },
 
   "segunda_lectura": {
