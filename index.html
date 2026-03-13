@@ -1,17 +1,16 @@
 <!DOCTYPE html>
-<html lang="es">
+<html>
 <head>
 <meta charset="UTF-8">
-<title>Liturgia de Hoy</title>
+<title>Liturgia del Día</title>
 
 <style>
-
 body{
 font-family: Arial;
-max-width: 800px;
+max-width:900px;
 margin:auto;
 padding:20px;
-background:#f5f5f5;
+background:#fafafa;
 line-height:1.6;
 }
 
@@ -19,147 +18,139 @@ h1{
 text-align:center;
 }
 
+h2{
+text-align:center;
+color:#444;
+}
+
 .seccion{
-background:white;
-padding:20px;
-margin-top:20px;
-border-radius:10px;
+margin-top:30px;
 }
 
 .cita{
 font-weight:bold;
-color:#444;
 margin-bottom:10px;
 }
 
 .respuesta{
-font-style:italic;
-color:#7a0000;
-margin-top:10px;
-margin-bottom:10px;
+font-weight:bold;
+color:#6b0000;
 }
 
 </style>
-
 </head>
 
 <body>
 
 <h1>✝️ Liturgia del Día</h1>
 
-<div id="contenido"></div>
+<div id="contenido">Cargando liturgia...</div>
 
 <script>
 
-function formatearSalmo(texto){
-return texto.replace(/\n/g,"<br><br>");
-}
-
-fetch('liturgia.json')
+fetch("./liturgia.json")
 .then(response => response.json())
 .then(data => {
 
-let html = `
+console.log("JSON cargado:", data);
 
+let html = "";
+
+html += `<h2>${data.fecha}</h2>`;
+html += `<p><b>${data.tiempo_liturgico}</b></p>`;
+
+html += `
 <div class="seccion">
-<h2>${data.fecha}</h2>
-<p><b>Tiempo Litúrgico:</b> ${data.tiempo_liturgico}</p>
-<p><b>Color:</b> ${data.color}</p>
+<h3>Primera Lectura</h3>
+<div class="cita">${data.primera_lectura.cita}</div>
+<p>${data.primera_lectura.texto}</p>
 </div>
+`;
 
+html += `
+<div class="seccion">
+<h3>Salmo Responsorial</h3>
+<div class="cita">${data.salmo.cita}</div>
+<p class="respuesta">${data.salmo.respuesta}</p>
+<p>${data.salmo.texto}</p>
+</div>
+`;
 
+if(data.segunda_lectura.cita){
+html += `
+<div class="seccion">
+<h3>Segunda Lectura</h3>
+<div class="cita">${data.segunda_lectura.cita}</div>
+<p>${data.segunda_lectura.texto}</p>
+</div>
+`;
+}
+
+html += `
+<div class="seccion">
+<h3>Aclamación antes del Evangelio</h3>
+<div class="cita">${data.aclamacion_evangelio.cita}</div>
+<p class="respuesta">${data.aclamacion_evangelio.respuesta}</p>
+<p>${data.aclamacion_evangelio.texto}</p>
+</div>
+`;
+
+html += `
+<div class="seccion">
+<h3>Evangelio</h3>
+<div class="cita">${data.evangelio.cita}</div>
+<p>${data.evangelio.texto}</p>
+</div>
+`;
+
+html += `
+<div class="seccion">
+<h3>Reflexión</h3>
+<p>${data.reflexion.texto}</p>
+</div>
+`;
+
+html += `
 <div class="seccion">
 <h3>Antífona de Entrada</h3>
 <p>${data.antifona_entrada}</p>
 </div>
+`;
 
-
+html += `
 <div class="seccion">
 <h3>Oración Colecta</h3>
 <p>${data.oracion_colecta}</p>
 </div>
-
-
-<div class="seccion">
-<h3>Primera Lectura</h3>
-<p class="cita">${data.primera_lectura.cita}</p>
-<p>${formatearSalmo(data.primera_lectura.texto)}</p>
-</div>
-
-
-<div class="seccion">
-<h3>Salmo Responsorial</h3>
-<p class="cita">${data.salmo.cita}</p>
-
-<p class="respuesta">
-R. ${data.salmo.respuesta}
-</p>
-
-<p>${formatearSalmo(data.salmo.texto)}</p>
-
-</div>
 `;
 
-if(data.segunda_lectura && data.segunda_lectura.cita !== ""){
 html += `
-
-<div class="seccion">
-<h3>Segunda Lectura</h3>
-<p class="cita">${data.segunda_lectura.cita}</p>
-<p>${formatearSalmo(data.segunda_lectura.texto)}</p>
-</div>
-
-`;
-}
-
-html += `
-
-<div class="seccion">
-<h3>Aclamación antes del Evangelio</h3>
-
-<p class="respuesta">
-R. ${data.aclamacion.respuesta}
-</p>
-
-<p>${formatearSalmo(data.aclamacion.texto)}</p>
-
-</div>
-
-
-<div class="seccion">
-<h3>Evangelio</h3>
-<p class="cita">${data.evangelio.cita}</p>
-<p>${formatearSalmo(data.evangelio.texto)}</p>
-</div>
-
-
-<div class="seccion">
-<h3>Reflexión</h3>
-<p>${formatearSalmo(data.reflexion)}</p>
-</div>
-
-
 <div class="seccion">
 <h3>Oración sobre las Ofrendas</h3>
-<p>${formatearSalmo(data.oracion_ofrendas)}</p>
+<p>${data.oracion_ofrendas}</p>
 </div>
+`;
 
-
+html += `
 <div class="seccion">
 <h3>Antífona de Comunión</h3>
-<p>${formatearSalmo(data.antifona_comunion)}</p>
+<p>${data.antifona_comunion}</p>
 </div>
+`;
 
-
+html += `
 <div class="seccion">
 <h3>Oración después de la Comunión</h3>
-<p>${formatearSalmo(data.oracion_comunion)}</p>
+<p>${data.oracion_comunion}</p>
 </div>
-
 `;
 
 document.getElementById("contenido").innerHTML = html;
 
+})
+.catch(error => {
+document.getElementById("contenido").innerHTML = "Error cargando la liturgia.";
+console.error(error);
 });
 
 </script>
