@@ -1,24 +1,23 @@
 {
-  "fecha": "13 Marzo 2026",
+  "fecha": "14 Marzo 2026",
   "tiempo_liturgico": "Cuaresma",
   "color": "Morado",
 
-  "antifona_entrada": "No existe ningún otro dios igual a ti, porque tú eres grande y haces maravillas; tú eres el único Dios",
+  "antifona_entrada": "Bendice, alma mía, al Señor, y no te olvides de sus beneficios, pues él perdona todas tus culpas",
 
-  "oracion_colecta": "Te rogamos, Señor bondadoso, que infundas tu gracia en nuestros corazones, para que, apartándonos siempre de todo humano extravío, podamos acoger, con tu ayuda, las inspiraciones que nos vienen de ti. Por nuestro Señor Jesucristo...",
-
+  "oracion_colecta": "Llenos de alegría por la celebración anual de esta Cuaresma, te rogamos, Señor, que, frecuentando los sacramentos pascuales, gocemos de la plenitud de sus frutos. Por nuestro Señor Jesucristo...", 
+  
   "primera_lectura": {
-    "cita": "Oseas 14, 2-10",
-    "texto": "Esto dice el Señor Dios: “Israel, conviértete al Señor, Dios tuyo, pues tu maldad te ha hecho sucumbir. Arrepiéntanse y acérquense al Señor para decirle: ‘Perdona todas nuestras maldades, acepta nuestro arrepentimiento sincero, que solemnemente te prometemos. Ya no nos salvará Asiria, ya no confiaremos en nuestro ejército, ni volveremos a llamar «dios nuestro» a las obras de nuestras manos, pues sólo en ti encuentra piedad el huérfano’. Yo perdonaré sus infidelidades, dice el Señor; los amaré aunque no lo merezcan, porque mi cólera se ha apartado de ellos. Seré para Israel como rocío; mi pueblo florecerá como el lirio, hundirá profundamente sus raíces, como el álamo, y sus renuevos se propagarán; su esplendor será como el del olivo y tendrá la fragancia de los cedros del Líbano. Volverán a vivir bajo mi sombra, cultivarán los trigales y las viñas, que serán tan famosas como las del Líbano. Ya nada tendrá que ver Efraín con los ídolos. Yo te he castigado, pero yo también te voy a restaurar, pues soy como un ciprés, siempre verde, y gracias a mí, tú das frutos. Quien sea sabio, que comprenda estas cosas y quien sea prudente, que las conozca. Los mandamientos del Señor son rectos y los justos los cumplen; los pecadores, en cambio, tropiezan en ellos y caen”. Palabra de Dios."
+    "cita": "Oseas 6, 1-6",
+    "texto": "Esto dice el Señor: “En su aflicción, mi pueblo me buscará y se dirán unos a otros: ‘Vengan, volvámonos al Señor; él nos ha desgarrado y él nos curará; él nos ha herido y él nos vendará. En dos días nos devolverá la vida, y al tercero, nos levantará y viviremos en su presencia. Esforcémonos por conocer al Señor; tan cierta como la aurora es su aparición y su juicio surge como la luz; bajará sobre nosotros como lluvia temprana, como lluvia de primavera que empapa la tierra’. ¿Qué voy a hacer contigo, Efraín? ¿Qué voy a hacer contigo, Judá? Su amor es nube mañanera, es rocío matinal que se evapora. Por eso los he azotado por medio de los profetas y les he dado muerte con mis palabras. Porque yo quiero misericordia y no sacrificios, conocimiento de Dios, más que holocaustos”. Palabra de Dios."
   },
 
   "salmo": {
-    "cita": "Salmo 80",
-    "respuesta": "R. Yo soy tu Dios, escúchame.",
-    "texto1": "Oyó Israel palabras nunca oídas: “He quitado la carga de tus hombros y el pesado canasto de tus manos. Clamaste en la aflicción y te libré. R.",
-    "texto2": "Te respondí, oculto entre los truenos, y te probé en Meribá, junto a la fuente. Escucha, pueblo mío, mi advertencia. ¡Israel, si quisieras escucharme! R.",
-    "texto3": "No tendrás otro Dios, fuera de mí, ni adorarás a dioses extranjeros, porque yo el Señor, soy el Dios tuyo, que te sacó de Egipto, tu destierro. R.",
-    "texto4": "¡Ojalá que mi pueblo me escuchara y cumpliera Israel mis mandamientos! Comería de lo mejor de mi trigo y yo lo saciaría con miel silvestre”. R."
+    "cita": "Salmo 50",
+    "respuesta": "R. Misericordia quiero, no sacrificios, dice el Señor.",
+    "texto1": "Por tu inmensa compasión y misericordia, Señor, apiádate de mí y olvida mis ofensas. Lávame bien de todos mis delitos, y purifícame de mis pecados. R.",
+    "texto2": "Tú, Señor, no te complaces en los sacrificios y si te ofreciera un holocausto, no te agradaría. Un corazón contrito te presento, y a un corazón contrito, tú nunca lo desprecias. R.",
+    "texto3": "Señor, por tu bondad, apiádate de Sión, edifica de nuevo sus murallas. Te agradarán entonces los sacrificios justos, ofrendas y holocaustos. R."
   },
 
   "segunda_lectura": {
@@ -27,23 +26,23 @@
   },
 
   "aclamacion_evangelio": {
-    "cita": "Mateo 4, 17",
+    "cita": "Salmo 94, 8",
     "respuesta": "Honor y gloria a ti, Señor Jesús.",
-    "texto": "Conviértanse, dice el Señor, porque ya está cerca el Reino de los cielos."
+    "texto": "Hagámosle caso al Señor que nos dice: “No endurezcan su corazón”."
   },
 
   "evangelio": {
-    "cita": "Marcos 12, 28-34",
-    "texto": "En aquel tiempo, uno de los escribas se acercó a Jesús y le preguntó: “¿Cuál es el primero de todos los mandamientos?” Jesús le respondió: “El primero es: Escucha, Israel: El Señor, nuestro Dios, es el único Señor; amarás al Señor, tu Dios, con todo tu corazón, con toda tu alma, con toda tu mente y con todas tus fuerzas. El segundo es éste: Amarás a tu prójimo como a ti mismo. No hay ningún mandamiento mayor que éstos”. El escriba replicó: “Muy bien, Maestro. Tienes razón, cuando dices que el Señor es único y que no hay otro fuera de él, y amarlo con todo el corazón, con toda el alma, con todas las fuerzas, y amar al prójimo como a uno mismo, vale más que todos los holocaustos y sacrificios”. Jesús, viendo que había hablado muy sensatamente, le dijo: “No estás lejos del Reino de Dios”. Y ya nadie se atrevió a hacerle más preguntas. Palabra del Señor."
+    "cita": "Lucas 18, 9-14",
+    "texto": "En aquel tiempo, Jesús dijo esta parábola sobre algunos que se tenían por buenos y despreciaban a los demás: “Dos hombres subieron al templo para orar: uno era fariseo y el otro, publicano. El fariseo, erguido, oraba así en su interior: ‘Dios mío, te doy gracias porque no soy como los demás hombres: ladrones, injustos y adúlteros; tampoco soy como ese publicano. Ayuno dos veces por semana y pago el diezmo de todas mis ganancias’. El publicano, en cambio, se quedó lejos y no se atrevía a levantar los ojos al cielo. Lo único que hacía era golpearse el pecho, diciendo: ‘Dios mío, apiádate de mí, que soy un pecador’. Pues bien, yo les aseguro que éste bajó a su casa justificado y aquél no; porque todo el que se enaltece será humillado y el que se humilla será enaltecido”. Palabra del Señor."
   },
 
   "reflexion": {
-    "texto": "Una tradición muy consolidada entre los antiguos profetas fue la de entender la Alianza de Dios para con su pueblo en términos “nupciales” (Cfr. Os 1, 2-8 y 3,1-4). Sobre el amor versa también el evangelio de hoy, a partir de la consulta que un letrado le hace a Jesús: «¿cuál es el primero de todos los mandamientos?». Él liga inseparablemente y en forma nueva los dos principales mandamientos. En este sentido, el amor es más importante que la misma práctica cultual, porque es lo que a ella le da valor. Estos dos «amores» valen más que todos los holocaustos y sacrificios."
+    "texto": "A una religiosidad interior y auténtica es a lo que quiere orientarnos Jesús con la parábola del «fariseo y el publicano» que acuden al templo a orar. Y ellos lo realizan, por cierto, con actitudes diametralmente opuestas. La lección es clara: agrada más al Señor un pecador que logra arrepentirse, que un orgulloso que ostentosamente se precia de ser justo. Y es que la salvación no es tanto fruto de los méritos de nuestras buenas obras, cuanto sobre todo gracia y favor de parte del «Dios-Amor». Nuestro Padre del cielo –por la fe– nos hace hijos suyos en Cristo, por la acción de su Santo Espíritu."
   },
 
-  "oracion_ofrendas": "Mira benignamente, Señor, los dones que te consagramos, para que sean gratos a tus ojos y sirvan siempre para nuestra salvación. Por Jesucristo, nuestro Señor.",
+  "oracion_ofrendas": "Señor Dios, de cuya gracia nos viene que podamos, contritos de corazón, acercarnos a tus sacramentos, concédenos que, al celebrarlos dignamente, podamos rendirte una alabanza perfecta. Por Jesucristo, nuestro Señor",
 
-  "antifona_comunion": "Amar a Dios con todo el corazón y al prójimo como a uno mismo, vale más que todos los sacrificios",
+  "antifona_comunion": "El publicano, en cambio, se quedó lejos, se golpeaba el pecho y decía: Dios mío, apiádate de mí, que soy un pecador.",
 
-  "oracion_comunion": "Te pedimos, Señor, que la acción de tu gracia penetre nuestras mentes y nuestros cuerpos, para que el sacramento recibido realice plenamente nuestra redención. Por Jesucristo, nuestro Señor."
+  "oracion_comunion": "Concédenos, Dios misericordioso, tributar digno homenaje a estos santos misterios, con los que sin cesar nos alimentas, y recibirlos siempre con espíritu de fe. Por Jesucristo, nuestro Señor."
 }
