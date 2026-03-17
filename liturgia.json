@@ -1,23 +1,23 @@
 {
-  "fecha": "16 Marzo 2026",
+  "fecha": "17 Marzo 2026",
   "tiempo_liturgico": "Cuaresma",
   "color": "Morado",
 
-  "antifona_entrada": "Confío en ti, Señor. Me gozaré y me alegraré en tu misericordia, porque te has fijado en mi aflicción",
+  "antifona_entrada": "Todos ustedes, los que tienen sed, vengan por agua, dice el Señor; y los que no tienen dinero, vengan y beban con alegría.",
 
-  "oracion_colecta": "Señor Dios, que renuevas el mundo por medio de tus admirables sacramentos, concede que tu Iglesia progrese gracias a tus designios eternos y que no le falten los auxilios temporales. Por nuestro Señor Jesucristo...", 
+  "oracion_colecta": "Dios nuestro, que enviaste al obispo san Patricio para evangelizar a los pueblos de Irlanda, por sus méritos e intercesión concede, a quienes nos gloriamos del nombre cristiano, anunciar siempre tus maravillas a los hombres. Por nuestro Señor Jesucristo...", 
   
   "primera_lectura": {
-    "cita": "Isaías 65, 17-21",
-    "texto": "Esto dice el Señor: “Voy a crear un cielo nuevo y una tierra nueva; ya no recordaré lo pasado, lo olvidaré de corazón. Se llenarán ustedes de gozo y de perpetua alegría por lo que voy a crear: Convertiré a Jerusalén en júbilo y a mi pueblo en alegría. Me alegraré por Jerusalén y me gozaré por mi pueblo. Ya no se oirán en ella gemidos ni llantos. Ya no habrá niños que vivan pocos días, ni viejos que no colmen sus años y al que no los alcance se le tendrá por maldito. Construirán casas y vivirán en ellas, plantarán viñas y comerán sus frutos”. Palabra de Dios."
+    "cita": "Ezequiel 47, 1-9. 12",
+    "texto": "En aquellos tiempos, un hombre me llevó a la entrada del templo. Por debajo del umbral manaba agua hacia el oriente, pues el templo miraba hacia el oriente, y el agua bajaba por el lado derecho del templo, al sur del altar. Luego me hizo salir por el pórtico del norte y dar la vuelta hasta el pórtico que mira hacia el oriente, y el agua corría por el lado derecho. Aquel hombre salió hacia el oriente, y con la cuerda que tenía en la mano, midió quinientos metros y me hizo atravesar por el agua, que me daba a los tobillos. Midió otros quinientos metros y me hizo pasar; el agua me daba a las rodillas. Midió quinientos más y me hizo cruzar; el agua me daba a la cintura. Era ya un torrente que yo no podía vadear, pues habían crecido las aguas y no se tocaba el fondo. Entonces me dijo: “¿Has visto, hijo de hombre?”. Después me hizo volver a la orilla del torrente, y al mirar hacia atrás, vi una gran cantidad de árboles en una y otra orilla. Aquel hombre me dijo: “Estas aguas van hacia la región oriental; bajarán hasta el Arabá, entrarán en el mar de aguas saladas y lo sanearán. Todo ser viviente que se mueva por donde pasa el torrente, vivirá; habrá peces en abundancia, porque los lugares a donde lleguen estas aguas quedarán saneados y por dondequiera que el torrente pase, prosperará la vida. En ambas márgenes del torrente crecerán árboles frutales de toda especie, de follaje perenne e inagotables frutos. Darán frutos nuevos cada mes, porque los riegan las aguas que manan del santuario. Sus frutos servirán de alimento y sus hojas, de medicina”. Palabra de Dios"
   },
 
   "salmo": {
-    "cita": "Salmo 29",
-    "respuesta": "R. Te alabaré, Señor, eternamente.",
-    "texto1": "Te alabaré, Señor, pues no dejaste que se rieran de mí mis enemigos. Tú, Señor, me salvaste de la muerte y a punto de morir, me reviviste. R.",
-    "texto2": "Alaben al Señor quienes lo aman, den gracias a su nombre, porque su ira dura un solo instante y su bondad, toda la vida. El llanto nos visita por la tarde; por la mañana, el júbilo. R.",
-    "texto3": "Escúchame, Señor, y compadécete; Señor, ven en mi ayuda. Convertiste mi duelo en alegría, te alabaré por eso eternamente. R."
+    "cita": "Salmo 45",
+    "respuesta": "R. Con nosotros está Dios, el Señor.",
+    "texto1": "Dios es nuestro refugio y nuestra fuerza, quien en todo peligro nos socorre. Por eso no tememos, aunque tiemble, y aunque al fondo del mar caigan los montes. R.",
+    "texto2": "Un río alegra a la ciudad de Dios, su morada el Altísimo hace santa. Teniendo a Dios, Jerusalén no teme, porque Dios la protege desde el alba. R.",
+    "texto3": "Con nosotros está Dios, el Señor; es el Dios de Israel nuestra defensa. Vengan a ver las cosas sorprendentes que ha hecho el Señor sobre la tierra. R."
   },
 
   "segunda_lectura": {
@@ -26,23 +26,23 @@
   },
 
   "aclamacion_evangelio": {
-    "cita": "Cfr. Am 5, 14",
+    "cita": "Sal 50, 12. 14",
     "respuesta": "Honor y gloria a ti, Señor Jesús.",
-    "texto": "Busquen el bien y no el mal, para que vivan, y el Señor estará con ustedes."
+    "texto": "Crea en mí, Señor, un corazón puro y devuélveme tu salvación, que regocija."
   },
 
   "evangelio": {
-    "cita": "Juan 4, 43-54",
-    "texto": "En aquel tiempo, Jesús salió de Samaria y se fue a Galilea. Jesús mismo había declarado que a ningún profeta se le honra en su propia patria. Cuando llegó, los galileos lo recibieron bien, porque habían visto todo lo que él había hecho en Jerusalén durante la fiesta, pues también ellos habían estado allí. Volvió entonces a Cana de Galilea, donde había convertido el agua en vino. Había allí un funcionario real, que tenía un hijo enfermo en Cafarnaúm. Al oír éste que Jesús había venido de Judea a Galilea, fue a verlo y le rogó que fuera a curar a su hijo, que se estaba muriendo. Jesús le dijo: “Si no ven ustedes señales y prodigios, no creen”. Pero el funcionario del rey insistió: “Señor, ven antes de que mi muchachito muera”. Jesús le contestó: “Vete, tu hijo ya está sano”. Aquel hombre creyó en la palabra de Jesús y se puso en camino. Cuando iba llegando, sus criados le salieron al encuentro para decirle que su hijo ya estaba sano. Él les preguntó a qué hora había empezado la mejoría. Le contestaron: “Ayer, a la una de la tarde, se le quitó la fiebre”. El padre reconoció que a esa misma hora Jesús le había dicho: ‘Tu hijo ya está sano’, y creyó con todos los de su casa. Esta fue la segunda señal milagrosa que hizo Jesús al volver de Judea a Galilea. Palabra del Señor."
+    "cita": "Juan 5, 1-16",
+    "texto": "Era un día de fiesta para los judíos, cuando Jesús subió a Jerusalén. Hay en Jerusalén, junto a la puerta de las Ovejas, una piscina llamada Betesdá, en hebreo, con cinco pórticos, bajo los cuales yacía una multitud de enfermos, ciegos, cojos y paralíticos. Entre ellos estaba un hombre que llevaba treinta y ocho años enfermo. Al verlo ahí tendido y sabiendo que ya llevaba mucho tiempo en tal estado, Jesús le dijo: “¿Quieres curarte?” Le respondió el enfermo: “Señor, no tengo a nadie que me meta en la piscina cuando se agita el agua. Cuando logro llegar, ya otro ha bajado antes que yo”. Jesús le dijo: “Levántate, toma tu camilla y anda”. Al momento el hombre quedó curado, tomó su camilla y se puso a andar. Aquel día era sábado. Por eso los judíos le dijeron al que había sido curado: “No te es lícito cargar tu camilla”. Pero él contestó: “El que me curó me dijo: ‘Toma tu camilla y anda’”. Ellos le preguntaron: “¿Quién es el que te dijo: ‘Toma tu camilla y anda’?” Pero el que había sido curado no lo sabía, porque Jesús había desaparecido entre la muchedumbre. Más tarde lo encontró Jesús en el templo y le dijo: “Mira, ya quedaste sano. No peques más, no sea que te vaya a suceder algo peor. Aquel hombre fue y les contó a los judíos que el que lo había curado era Jesús. Por eso los judíos perseguían a Jesús, porque hacía estas cosas en sábado. Palabra del Señor."
   },
 
   "reflexion": {
-    "texto": "El oráculo de Isaías sólo tendrá cabal cumplimiento con la llegada del Mesías, gracias –sobre todo– a su poder sobre la enfermedad y la muerte. La súplica que un funcionario real de Cafarnaún hace a Jesús pidiéndole la curación de su hijo, gravemente enfermo, “arranca” el milagro de una curación a distancia por el poder de Cristo, que se encuentra en Cana de Galilea, donde antes había convertido el agua en vino. Jesús se manifiesta en este episodio como la «vida» en persona, tema que el evangelista san Juan desarrollará más adelante con gran profundidad. "
+    "texto": "A lo largo del Antiguo Testamento el agua ha venido siendo considerada como señal de la bendición de Dios (Cfr. Sal 45). Igualmente, a lo largo del Nuevo Testamento el agua es vida, resurrección y anuncio del bautismo en el Espíritu Santo (Cfr. Jn 3, 5; 7, 38-39). Esa «agua viva» es, en definitiva, Jesús mismo (Cfr. Jn 3, 5), como lo vemos hoy en el milagro del paralítico «que no contaba con nadie». Esa prodigiosa agua es don de Dios –unido necesariamente al conocimiento de Jesús– porque Él es el regalo insuperable que el Padre nos ofrece, para que el mundo tenga vida."
   },
 
-  "oracion_ofrendas": "Te rogamos, Señor, que podamos alcanzar el fruto de la ofrenda que te presentamos, para que, purificados de la antigua situación de pecado, nos renueve la participación en la vida divina. Por Jesucristo, nuestro Señor",
+  "oracion_ofrendas": "Te ofrecemos, Señor, estos dones que tú mismo nos has dado para que testimonien el auxilio que has dispuesto para nuestra condición mortal y se nos conviertan en alimento de inmortalidad. Por Jesucristo, nuestro Señor.",
 
-  "antifona_comunion": "Infundiré mi Espíritu en ustedes, y los haré vivir según mis preceptos y cumplir mis mandamientos, dice el Señor.",
+  "antifona_comunion": "El Señor es mi pastor, nada me falta: en verdes praderas me hace recostar; me conduce hacia fuentes tranquilas.",
 
-  "oracion_comunion": "Te rogamos, Señor, que tus santos misterios, renovándonos, nos vivifiquen nos reanimen con su vigorosa fuerza y, santificándonos, nos conduzcan a la vida eterna. Por Jesucristo, nuestro Señor."
+  "oracion_comunion": "Purifica, Señor, en tu bondad, nuestro espíritu, y renuévalo con tus sacramentos celestiales, para que de la misma manera alcancemos, también para nuestro cuerpo, los auxilios presentes y futuros. Por Jesucristo, nuestro Señor."
 }
