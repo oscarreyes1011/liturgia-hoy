@@ -1,23 +1,24 @@
 {
-  "fecha": "20 Marzo 2026",
+  "fecha": "23 Marzo 2026",
   "tiempo_liturgico": "Cuaresma",
   "color": "Morado",
 
-  "antifona_entrada": "Señor, sálvame por tu nombre y líbrame con tu poder. Señor, escucha mi plegaria, presta oídos a las palabras de mi boca.",
+  "antifona_entrada": "Tú, Señor, no te quedes lejos; fuerza mía, ven aprisa a ayudarme; pues yo soy un gusano, no un hombre, despreciado por la gente y rechazado por el pueblo.",
 
-  "oracion_colecta": "Señor Dios, que preparaste abundantes remedios para nuestra fragilidad, concédenos que podamos recibir con alegría su efecto reparador y lo manifestemos con una vida santa. Por nuestro Señor Jesucristo...", 
+  "oracion_colecta": "Dios nuestro, que has hecho crecer a tu Iglesia por los cuidados apostólicos y el celo por la verdad del santo obispo Toribio de Mogrovejo, concede también al pueblo a ti consagrado crecer constantemente en la fe y renovarse en la santidad. Por nuestro Señor Jesucristo...", 
   
   "primera_lectura": {
-    "cita": "Sabiduría 2, 1a. 12-22",
-    "texto": "Los malvados dijeron entre sí, discurriendo equivocadamente: “Tendamos una trampa al justo, porque nos molesta y se opone a lo que hacemos; nos echa en cara nuestras violaciones a la ley, nos reprende las faltas contra los principios en que fuimos educados. Presume de que conoce a Dios y se proclama a sí mismo hijo del Señor. Ha llegado a convertirse en un vivo reproche de nuestro modo de pensar y su sola presencia es insufrible, porque lleva una vida distinta de los demás y su conducta es extraña. Nos considera como monedas falsas y se aparta de nuestro modo de vivir como de las inmundicias. Tiene por dichosa la suerte final de los justos y se gloría de tener por padre a Dios. Veamos si es cierto lo que dice, vamos a ver qué le pasa en su muerte. Si el justo es hijo de Dios, él lo ayudará y lo librará de las manos de sus enemigos. Sometámoslo a la humillación y a la tortura para conocer su temple y su valor. Condenémoslo a muerte ignominiosa, porque dice que hay quien mire por él”. Así discurren los malvados, pero se engañan; su malicia los ciega. No conocen los ocultos designios de Dios, no esperan el premio de la virtud, ni creen en la recompensa de una vida intachable. Palabra de Dios."
+    "cita": "Daniel 13, 41-62",
+    "texto": "En aquel tiempo, la asamblea creyó a los ancianos, que habían calumniado a Susana, y la condenaron a muerte. Entonces Susana, dando fuertes voces, exclamó: “Dios eterno, que conoces los secretos y lo sabes todo antes de que suceda, tú sabes que éstos me han levantado un falso testimonio. Y voy a morir sin haber hecho nada de lo que su maldad ha tramado contra mí”. El Señor escuchó su voz. Cuando llevaban a Susana al sitio de la ejecución, el Señor hizo sentir a un muchacho, llamado Daniel, un santo impulso de ponerse a gritar: “Yo no soy responsable de la sangre de esta mujer”. Todo el pueblo se volvió a mirarlo y le preguntaron: “¿Qué es lo que estás diciendo?” Entonces Daniel, de pie en medio de ellos, les respondió: “Israelitas, ¿cómo pueden ser tan ciegos? Han condenado a muerte a una hija de Israel, sin haber investigado y puesto en claro la verdad. Vuelvan al tribunal, porque ésos le han levantado un falso testimonio”. Todo el pueblo regresó de prisa y los ancianos dijeron a Daniel: “Ven a sentarte en medio de nosotros y dinos lo que piensas, puesto que Dios mismo te ha dado la madurez de un anciano”. Daniel les dijo entonces: “Separen a los acusadores, lejos el uno del otro, y yo los voy a interrogar”. Una vez separados, Daniel mandó llamar a uno de ellos y le dijo: “Viejo en años y en crímenes, ahora van a quedar al descubierto tus pecados anteriores, cuando injustamente condenabas a los inocentes y absolvías a los culpables, contra el mandamiento del Señor: No matarás al que es justo e inocente. Ahora bien, si es cierto que los viste, dime debajo de qué árbol estaban juntos”. Él respondió: “Debajo de una acacia”. Daniel le dijo: “Muy bien. Tu mentira te va a costar la vida, pues ya el ángel ha recibido de Dios tu sentencia y te va a partir por la mitad”. Daniel les dijo que se lo llevaran, mandó traer al otro y le dijo: “Raza de Canaán y no de Judá, la belleza te sedujo y la pasión te pervirtió el corazón. Lo mismo hacían ustedes con las mujeres de Israel, y ellas, por miedo, se entregaban a ustedes. Pero una mujer de Judá no ha podido soportar la maldad de ustedes. Ahora dime, ¿bajo qué árbol los sorprendiste abrazados?” Él contestó: “Debajo de una encina”. Replicó Daniel: “También a ti tu mentira te costará la vida. El ángel del Señor aguarda ya con la espada en la mano, para partirte por la mitad. Así acabará con ustedes”. Entonces toda la asamblea levantó la voz y bendijo a Dios, que salva a los que esperan en él. Se alzaron contra los dos viejos, a quienes, con palabras de ellos mismos, Daniel había convencido de falso testimonio, y les aplicaron la pena que ellos mismos habían maquinado contra su prójimo. Para cumplir con la ley de Moisés, los mataron, y aquel día se salvó una vida inocente. Palabra de Dios."
   },
 
   "salmo": {
-    "cita": "Salmo 33",
-    "respuesta": "R. El Señor no está lejos de sus fieles.",
-    "texto1": "En contra del malvado está el Señor, para borrar de la tierra su memoria. Escucha, en cambio, al hombre justo y lo libra de todas sus congojas. R.",
-    "texto2": "El Señor no está lejos de sus fieles y levanta a las almas abatidas. Muchas tribulaciones pasa el justo, pero de todas ellas Dios lo libra. R.",
-    "texto3": "Por los huesos del justo vela Dios, sin dejar que ninguno se le quiebre. Salva el Señor la vida de sus siervos; no morirán quienes en él esperan. R."
+    "cita": "Salmo 22",
+    "respuesta": "R. Nada temo, Señor, porque tú estás conmigo.",
+    "texto1": "El Señor es mi pastor, nada me falta; en verdes praderas me hace reposar y hacia fuentes tranquilas me conduce para reparar mis fuerzas. R.",
+    "texto2": "Por ser un Dios fiel a sus promesas, me guía por el sendero recto; así, aunque camine por cañadas oscuras, nada temo, porque tú estás conmigo. Tu vara y tu cayado me dan seguridad. R.",
+    "texto3": "Tú mismo me preparas la mesa, a despecho de mis adversarios; me unges la cabeza con perfume y llenas mi copa hasta los bordes. R.",
+    "texto4": "Tu bondad y tu misericordia me acompañarán todos los días de mi vida; y viviré en la casa del Señor por años sin término. R."
   },
 
   "segunda_lectura": {
@@ -26,23 +27,23 @@
   },
 
   "aclamacion_evangelio": {
-    "cita": "Mt 4, 4",
+    "cita": "Ez 33, 11",
     "respuesta": "Honor y gloria a ti, Señor Jesús.",
-    "texto": "No sólo de pan vive el hombre, sino también de toda palabra que sale de la boca de Dios."
+    "texto": "No quiero la muerte del pecador, sino que se arrepienta y viva, dice el Señor."
   },
 
   "evangelio": {
-    "cita": "Juan 7, 1-2. 10. 25-30",
-    "texto": "En aquel tiempo, Jesús recorría Galilea, pues no quería andar por Judea, porque los judíos trataban de matarlo. Se acercaba ya la fiesta de los judíos, llamada de los Campamentos. Cuando los parientes de Jesús habían llegado ya a Jerusalén para la fiesta, llegó también él, pero sin que la gente se diera cuenta, como de incógnito. Algunos, que eran de Jerusalén, se decían: “¿No es éste al que quieren matar? Miren cómo habla libremente y no le dicen nada. ¿Será que los jefes se han convencido de que es el Mesías? Pero nosotros sabemos de dónde viene éste; en cambio, cuando llegue el Mesías, nadie sabrá de dónde viene”. Jesús, por su parte, mientras enseñaba en el templo, exclamó: “Conque me conocen a mí y saben de dónde vengo… Pues bien, yo no vengo por mi cuenta, sino enviado por el que es veraz; y a él ustedes no lo conocen. Pero yo sí lo conozco, porque procedo de él y él me ha enviado”. Trataron entonces de capturarlo, pero nadie le pudo echar mano, porque todavía no había llegado su hora. Palabra del Señor."
+    "cita": "Juan 8, 1-11",
+    "texto": "En aquel tiempo, Jesús se retiró al monte de los Olivos y al amanecer se presentó de nuevo en el templo, donde la multitud se le acercaba; y él, sentado entre ellos, les enseñaba. Entonces los escribas y fariseos le llevaron a una mujer sorprendida en adulterio, y poniéndola frente a él, le dijeron: “Maestro, esta mujer ha sido sorprendida en flagrante adulterio. Moisés nos manda en la ley apedrear a estas mujeres. ¿Tú que dices?” Le preguntaban esto para ponerle una trampa y poder acusarlo. Pero Jesús se agachó y se puso a escribir en el suelo con el dedo. Pero como insistían en su pregunta, se incorporó y les dijo: “Aquel de ustedes que no tenga pecado, que le tire la primera piedra”. Se volvió a agachar y siguió escribiendo en el suelo. Al oír aquellas palabras, los acusadores comenzaron a escabullirse uno tras otro, empezando por los más viejos, hasta que dejaron solos a Jesús y a la mujer, que estaba de pie, junto a él. Entonces Jesús se enderezó y le preguntó: “Mujer, ¿dónde están los que te acusaban? ¿Nadie te ha condenado?” Ella le contestó: “Nadie, Señor”. Y Jesús le dijo: “Tampoco yo te condeno. Vete y ya no vuelvas a pecar”. Palabra del Señor."
   },
 
   "reflexion": {
-    "texto": "La persecución del justo por parte de los impíos anticipa el destino de Jesús, rechazado f inalmente por sus contemporáneos. Ellos no verán en Él más que a un simple mortal y hasta lo considerarán un auténtico peligro. De ahí que Él se convierta para ellos en un “reproche viviente”. Y lo será en particular para los supuestos letrados, esos que tergiversaban la Escritura y corrompían la religión. También Él –«el enviado por el que es veraz»– será condenado a una muerte ignominiosa, cuando llegue su «hora». Así quedará comprobado que Dios permanece siempre fiel a quien trata de agradarlo."
+    "texto": "Los motivos de la acusación por parte de los escribas y fariseos no son, por supuesto, sinceros. Lo que en realidad buscan al llevar a esta mujer ante Jesús es «ponerle una trampa y poder acusarlo». Jesús perdona a la mujer adúltera y su amor misericordioso la convierte. Entonces le dice: «ya no vuelvas a pecar». En este episodio Él nos revela que la actitud de los hombres es muy diferente a la del Padre –el inmensamente bueno– que no gusta condenar sino perdonar. La bondad divina es tan grande como Dios mismo."
   },
 
-  "oracion_ofrendas": "Señor, que el poder de este sacrificio nos purifique, para llegar bien dispuestos a las fiestas pascuales, que son el origen de nuestra salvación. Por Jesucristo, nuestro Señor.",
+  "oracion_ofrendas": "Concédenos, Señor, a quienes nos disponemos a celebrar los santos misterios, que podamos presentarte con alegría nuestras almas ya purificadas, como fruto de nuestra penitencia corporal. Por Jesucristo, nuestro Señor.",
 
-  "antifona_comunion": "Por medio de su Sangre, Cristo nos ha obtenido la redención y el perdón de los pecados. En esto se manifiesta la riqueza de su gracia.",
+  "antifona_comunion": "Yo soy la luz del mundo, dice el Señor; el que me sigue, no camina en tinieblas, sino que tendrá la luz de la vida.",
 
-  "oracion_comunion": "Concédenos, Señor, que así como pasamos de lo antiguo a lo nuevo, así, renunciando al pecado, quedemos renovados con una vida santa. Por Jesucristo, nuestro Señor."
+  "oracion_comunion": "Que los sacramentos que hemos recibido, Señor, nos purifiquen de nuestras malas inclinaciones y, fortalecidos con tu bendición, corramos a tu encuentro siguiendo las huellas de Cristo. Él, que vive y reina por los siglos de los siglos."
 }
