@@ -38,9 +38,6 @@ font-weight:bold;
 color:#6b0000;
 }
 
-.tiempo_liturgico{
-    text-align: center;
-}
 
 </style>
 </head>
@@ -62,7 +59,7 @@ console.log("JSON cargado:", data);
 let html = "";
 
 html += `<h2>${data.fecha}</h2>`;
-html += `<p><b>${data.tiempo_liturgico}</b></p>`;
+html += `<p style="text-align: center;""><b>${data.tiempo_liturgico}</b></p>`;
 
 html += `
 <div class="seccion">
